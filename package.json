@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mongodb": "^4.1.3"
+  },
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "what should i do?",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crosticio/mongo.git"
+  },
+  "author": "dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crosticio/mongo/issues"
+  },
+  "homepage": "https://github.com/Crosticio/mongo#readme"
+}
